@@ -1,4 +1,4 @@
-🖖 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=d1eadf&width=435&lines=Shiba+@+Home)](https://git.io/typing-svg)
+🖖 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff0000&width=435&lines=Shiba+@+Home)](https://git.io/typing-svg)
 
 - 📑 Makes Lua Scripts (roblox).
 - 🏗️ Makes Builds (roblox).
